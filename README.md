@@ -1,1 +1,1 @@
-# JavaScroptDz3
+# JavaScriptDz3
